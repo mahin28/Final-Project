@@ -58,7 +58,3 @@ This project is divided into three parts:
 - Developing professional business documents with Microsoft Word.
 - Performing in-depth data analysis and visualization with Excel.
 - Crafting impactful presentations with PowerPoint.
-
-## License
-
-This project is shared for educational purposes. Feel free to use or modify it with proper attribution.
