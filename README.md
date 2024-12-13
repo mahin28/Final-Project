@@ -4,6 +4,9 @@ Welcome to the **Comprehensive Project Repository**! This repository demonstrate
 
 ## Project Overview
 
+#Sample Question ->
+[Final_Project_Sample.pdf](https://github.com/user-attachments/files/18131367/Final_Project_Sample.pdf)
+
 This project is divided into three parts:
 
 1. **Microsoft Word**
